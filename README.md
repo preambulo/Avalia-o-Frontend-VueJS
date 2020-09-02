@@ -25,4 +25,4 @@ Levaremos em conta os seguintes requisitos:
 ### Sobre a entrega
 Não estipulamos um prazo para a entrega do teste, apenas pedimos que, antes de iniciá-lo, nos informe uma data estimada de entrega.
 
-### Obs: Poder ser usado frameworks VueJS e o código de ser entregue via GitHub;
+### Obs: Poder ser usado frameworks VueJS e o código de ser entregue via GitHub enviando o link do projeto para a pessoa que solicitou o teste;
